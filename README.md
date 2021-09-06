@@ -7,7 +7,7 @@
 
 ### 👻 DEPLOY🏃‍♂
 
-[![Deploy ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BadnamOp/mention)
+[![Deploy ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RythmBotz/Mention_Robot)
 
 ### 🖇️ SUPPORT 🖇️
 
