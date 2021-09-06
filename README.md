@@ -8,11 +8,11 @@
 
 ### 🖇️ DIMOND BOT 🖇️
 
-[![telegram badge](https://img.shields.io/badge/BOT-30302f?style=for-the-badge&logo=telegram)](http://t.me/tele_uploader_bot)
+[![telegram badge](https://img.shields.io/badge/BOT-30302f?style=for-the-badge&logo=telegram)](http://t.me/Mention_Robot)
 
 ### 👻 DEPLOY🏃‍♂
 
-[![Deploy ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RythmBotz/tele_uploader_bot)
+[![Deploy ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RythmBotz/Mention_Robot)
 
 ### 🖇️ SUPPORT 🖇️
 
