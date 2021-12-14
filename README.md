@@ -22,5 +22,5 @@
 
 ### 🖤 ᴄʀᴇᴀᴛᴏʀ 🖤
 
-[![telegram badge](https://img.shields.io/badge/Rythmteam-30302f?style=for-the-badge&logo=telegram)](https://t.me/rythmupdate/5)
+[![telegram badge](https://img.shields.io/badge/Rythmteam-30302f?style=for-the-badge&logo=telegram)](https://t.me/rythmupdates)
 
