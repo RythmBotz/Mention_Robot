@@ -19,8 +19,8 @@ client = TelegramClient('client', api_id, api_hash).start(bot_token=bot_token)
 async def start(event):
   await event.reply("__**Im MentionAll Bot**, I can mention almost all members in group or channel 👻\nClick **/help** for more infomation__\n\n Follow [@RythmSupport](https://t.me/Rythmsupport) on Telegram",
                     buttons=(
-                      [Button.url('📣 Channel', 'https://t.me/Rythmupdate'),
-                      Button.url('📦 Rythm team', 'https://t.me/rythmupdate/5')]
+                      [Button.url('📣 Channel', 'https://t.me/Rythmupdates'),
+                      Button.url('📦 Support', 'https://t.me/Rythmsupport')]
                     ),
                     link_preview=False
                    )
@@ -29,8 +29,8 @@ async def help(event):
   helptext = "**Help Menu of MentionAllBot**\n\nCommand: /Rtag\n__You can use this command with text what you want to mention others.__\n`Example: /Rtag Good Morning!`\n__You can you this command as a reply to any message. Bot will tag users to that replied messsage__.\n\nFollow [@Rythmsupport](https://t.me/rythmsupport) on Telegram"
   await event.reply(helptext,
                     buttons=(
-                      [Button.url('📣 Channel', 'https://t.me/Rythmupdate'),
-                      Button.url('📦 Rythm team', 'https://t.me/rythmupdate/5')]
+                      [Button.url('📣 Channel', 'https://t.me/Rythmupdates'),
+                      Button.url('📦 Support', 'https://t.me/Rythmsupport')]
                     ),
                     link_preview=False
                    )
